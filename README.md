@@ -39,9 +39,9 @@
 
 - 빅데이터 학습
     - 실습 자료, 파이썬 기본 리뷰, 빅데이터 분석 기초학습 
-    - [NoteBook]()
-    - [판다스]()
-    - [맷플롭립]()
+    - [넘파이](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda03_metplotlib_basic.ipynb)
 ## 2일차(24.08.02)
 
 ## 3일차
