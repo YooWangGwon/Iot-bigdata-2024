@@ -46,12 +46,12 @@
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - 셀레니움 + 뷰티플수프 같이 진행    
-    - [뷰티플수프](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/dba04_beautifulsoup_basic.ipynb)
-    - [셀레니움](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/dba05_selenium_basic.ipynb)
+    - [뷰티플수프](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day02/dba04_beautifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day02/dba05_selenium_basic.ipynb)
 
 - 빅데이터 실습
     - 스타벅스 입지 분석
-    - [스벅입지분석](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/dba06_starbucks_analysis.ipynb)
+    - [스벅입지분석](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day02/dba06_starbucks_analysis.ipynb)
 ## 3일차
 
 ## 4일차
