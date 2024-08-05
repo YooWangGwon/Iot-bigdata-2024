@@ -42,6 +42,7 @@
     - [넘파이](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
     - [판다스](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
     - [맷플롭립](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day01/bda03_metplotlib_basic.ipynb)
+
 ## 2일차(24.08.02)
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
@@ -52,7 +53,16 @@
 - 빅데이터 실습
     - 스타벅스 입지 분석
     - [스벅입지분석](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day02/dba06_starbucks_analysis.ipynb)
+
 ## 3일차
+- 개인 토이프로젝트
+    - GitHub 리포지토리, 빅데이터, 머신러닝, 딥러닝 레퍼런스를 참조 -> 클로닝 형태
+    - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석(계속)
+    - [스벅입지분석](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day03/dba07_starbucks_analysis.ipynb)
+    - 지난주 최종으로 만든 데이터 csv파일 다시 로드
 
 ## 4일차
 
