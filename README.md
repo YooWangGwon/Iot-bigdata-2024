@@ -64,7 +64,16 @@
     - [스벅입지분석](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day03/dba07_starbucks_analysis.ipynb)
     - 지난주 최종으로 만든 데이터 csv파일 다시 로드
 
+- 빅데이터 활용방안
+    - [강사자바2024](https://github.com/hugoMGSung/bigdata-analysis-2024)
+    - [강사나머지교안](https://github.com/hugoMGSung/works-need-it-data-analysis)
+    - [멀티캠퍼스서울2021](https://github.com/ckiekim/DataAnalysis-2021-3)
+    - [위키북스_데이터분석실무](https://github.com/CityHopper/playwithdata)
+
+    - 수집방법, 데이터전처리, 분석/시각화 알맞은 방법을 쓰는지 선별
+
 ## 4일차
+- 머신러닝, 딥러닝
 
 ## 5일차
 
