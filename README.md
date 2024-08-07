@@ -91,11 +91,16 @@
 
 ## 4일차(2024.08.06)
 - 머신러닝, 딥러닝
-    - [개념](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day04/dba07_starbucks_analysis.ipynb)
-    - [파이토치기본](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day04/dba07_starbucks_analysis.ipynb)
-    - [회귀분석]()
+    - 인공지능 개념 학습
+    - 파이토치 기본설명과 CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day04/dba08_ml_dl_concept.ipynb)
+    - [파이토치 개요 및 설치](https://github.com/YooWangGwon/Iot-bigdata-2024/blob/main/day04/dba09_pytorch_start.ipynb)
 
 ## 5일차
+- 머신러닝, 딥러닝
+    - ML(Machine Learning) -> DL(Deep Learning)
+    - [파이토치기본]()
+    - [회귀분석]()
 
 ## 6일차
 
